@@ -1,6 +1,9 @@
-// import { FaTwitter, FaFacebook, FaLinkedin, FaYoutube } from "react-icons/fa";
+// eslint-disable-next-line no-unused-vars
+import { FaTwitter, FaFacebook, FaLinkedin, FaYoutube } from "react-icons/fa";
+import React from "react";
 
 // import social
+// eslint-disable-next-line no-unused-vars
 import { social } from '../data';
 const FooterMain = () => {
   return (
