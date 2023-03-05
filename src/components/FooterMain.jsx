@@ -1,4 +1,4 @@
-import { FaTwitter, FaFacebook, FaLinkedin, FaYoutube } from "react-icons/fa";
+// import { FaTwitter, FaFacebook, FaLinkedin, FaYoutube } from "react-icons/fa";
 
 // import social
 import { social } from '../data';
