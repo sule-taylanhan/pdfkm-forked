@@ -17,7 +17,10 @@ const Subscribe = () => {
             placeholder='Your email address'
           />
           <button className='btn bg-primary hover:bg-primary-hover lg:max-w-[150px] lg:ml-4'>
-            Join
+            Donate
+          </button>
+          <button className='btn bg-primary hover:bg-primary-hover lg:max-w-[150px] lg:ml-4'>
+            join
           </button>
         </form>
       </div>

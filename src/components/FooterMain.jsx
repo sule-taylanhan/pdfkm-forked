@@ -13,15 +13,11 @@ const FooterMain = () => {
               <h6>CONTACT</h6>
               <p className='container mx-auto text-accent'>
                 <i className='container mx-auto'>
-                  WELCOMING THE STARNGER <br />
-                  PO Box 1156 Langhorne, PA 19047 <br />
-                  Executive Director <br />
-                  Patricia Lorenz <br />
-                  Administrative Assistant <br />
-                  Kathy Kraeck <br />
+                  PENNSYLVANIA  DIALOGUE FORUM <br />
+                  2190 Bennett Rd, Philadelphia, PA 19116 <br/>
                   Phone: 215.702.3445 <br />
-                  <a  className='container mx-auto text-accent'href="https://welcomingthestranger.org/">
-                    info@welcomingthestranger.org
+                  <a  className='container mx-auto text-accent'href="https://receptaylanhan.com">
+                    www.pdf.org
                   </a>
                   <br/>
                 </i>
@@ -30,7 +26,7 @@ const FooterMain = () => {
           </div>
           {/* <hr /> */}
         </div>
-        <div className="text-white text-sm text-center">
+        {/* <div className="text-white text-sm text-center">
           <div class="row">
             <div class="col-md-8 col-sm-6 col-xs-12"></div>
 
@@ -39,7 +35,7 @@ const FooterMain = () => {
                 <li>
                   <a
                     className="facebook"
-                    href="https://www.facebook.com/welcomingthestrangernonprofit"
+                    href="https://peaceislandspa.org/"
                   >
                     <i class="fa fa-facebook">
                     <FaFacebook />
@@ -79,19 +75,18 @@ const FooterMain = () => {
               </ul>
             </div>
           </div>
-        </div>
+        </div> */}
       {/* </footer> */}
-    
       </section>
-      <div className='flex items-center justify-between mx-auto max-w-[205px]'>
+      {/* <div className='flex items-center justify-between mx-auto max-w-[205px]'>
           {social.map((item, index) => {
             return (
-              <a href='https://www.facebook.com/welcomingthestrangernonprofit' key={index}>
-                <img src={item.icon}></img>
+              <a href='href="https://peaceislandspa.org/' key={index}>
+                <img src={item.icon} alt=''></img>
               </a>
             );
           })}
-        </div>
+        </div> */}
     </>
   );
 }

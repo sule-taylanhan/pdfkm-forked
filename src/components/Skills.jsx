@@ -11,10 +11,7 @@ const Skills = () => {
           WHAT WE ARE DOING
         </h2>
         <p className='max-w-[540px] mx-auto px-6 lg:px-0 mb-[60px]'>
-        Welcoming the Stranger provides free classes in English, Computer Skills, 
-        and Citizenship Preparation for adult immigrants and refugees in Bucks County
-         and surrounding areas, 
-        encouraging connections to community and country.
+        Pennsylvania Dialogue Forum promotes peace, love, respect, humanity, integrity, welfare, understanding, and much more. We aspire to facilitate a venue of mutual respect and collaboration. We also welcome and listen to the diversity of voices, provided by this nation, to develop original and alternative perspectives, and we do this in order to understand, and get closer to solving, the crucial issues that face our society today.
         </p>
         <div className='lg:grid lg:grid-cols-3 gap-12'>
           {skills.map((item, index) => {

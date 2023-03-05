@@ -28,8 +28,8 @@ const Header = () => {
     >
       <div className='container mx-auto flex items-center justify-between'>
         {/* logo */}
-        <a href='#'>
-          <img style ={{width:"10%",borderRadius:"50%"}}src={Logo} alt='logo image' />
+        <a href='home'>
+          <img style ={{width:"15%",borderRadius:"50%"}}src={Logo} alt='logo' />
         </a>
         {/* nav */}
         <Nav />
