@@ -10,7 +10,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import BackToTop from './components/BackToTop';
 import FooterMain from './components/FooterMain';
-
+//console.log('to keep code sync between 2 repositories')
 const App = () => {
   return (
     <div>
